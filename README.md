@@ -24,8 +24,8 @@ A violência contra a mulher pode ser definida como qualquer ato de violência b
 
 Antes de começar, verifique se você atendeu aos seguintes requisitos:
 
-- Você instalou a versão mais recente de `<Python / Pandas / PyDecision>`
-- Você tem uma máquina `<Windows / Linux / Mac>`. 
+- Você instalou a versão mais recente de `<Python / Pandas / PyDecision / GeoPandas>`
+- Sistema Operacional: `<Windows / Linux / Mac>`. 
 
 
 ## 🚀 Instando as bibliotecas necessárias 
