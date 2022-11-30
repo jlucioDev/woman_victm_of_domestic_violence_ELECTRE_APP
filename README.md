@@ -60,7 +60,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="collaborators/alana.jpg" width="100px;" alt="joao"><br>
+        <img src="collaborators/alana.jpg" width="100px;" alt="Alana"><br>
         <sub>
           <b>Alana Miranda</b>
         </sub>
@@ -68,9 +68,17 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="collaborators/saulo.jpg" width="100px;alt="joao"><br>
+        <img src="collaborators/saulo.jpg" width="100px;alt="Sulo"><br>
         <sub>
           <b>Saulo William</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="collaborators/Seruffo.jpg" width="100px;alt="Seruffo"><br>
+        <sub>
+          <b>Marcos Seruffo</b>
         </sub>
       </a>
     </td>
