@@ -1,0 +1,866 @@
+[
+ {
+  "id": 1500107,
+  "localidade": "Abaetetuba",
+  "classificacao": 4,
+  "casos": 77
+ },
+ {
+  "id": 1500131,
+  "localidade": "Abel Figueiredo",
+  "classificacao": 3,
+  "casos": 0
+ },
+ {
+  "id": 1500206,
+  "localidade": "Acará",
+  "classificacao": 3,
+  "casos": 11
+ },
+ {
+  "id": 1500305,
+  "localidade": "Afuá",
+  "classificacao": 4,
+  "casos": 1
+ },
+ {
+  "id": 1500347,
+  "localidade": "Água Azul do Norte",
+  "classificacao": 2,
+  "casos": 4
+ },
+ {
+  "id": 1500404,
+  "localidade": "Alenquer",
+  "classificacao": 4,
+  "casos": 8
+ },
+ {
+  "id": 1500503,
+  "localidade": "Almeirim",
+  "classificacao": 4,
+  "casos": 5
+ },
+ {
+  "id": 1500602,
+  "localidade": "Altamira",
+  "classificacao": 4,
+  "casos": 14
+ },
+ {
+  "id": 1500701,
+  "localidade": "Anajás",
+  "classificacao": 5,
+  "casos": 0
+ },
+ {
+  "id": 1500800,
+  "localidade": "Ananindeua",
+  "classificacao": 2,
+  "casos": 237
+ },
+ {
+  "id": 1500859,
+  "localidade": "Anapu",
+  "classificacao": 4,
+  "casos": 10
+ },
+ {
+  "id": 1500909,
+  "localidade": "Augusto Corrêa",
+  "classificacao": 5,
+  "casos": 6
+ },
+ {
+  "id": 1500958,
+  "localidade": "Aurora do Pará",
+  "classificacao": 5,
+  "casos": 3
+ },
+ {
+  "id": 150006,
+  "localidade": "Aveiro",
+  "classificacao": 5,
+  "casos": 3
+ },
+ {
+  "id": 150105,
+  "localidade": "Bagre",
+  "classificacao": 5,
+  "casos": 3
+ },
+ {
+  "id": 150204,
+  "localidade": "Baião",
+  "classificacao": 4,
+  "casos": 8
+ },
+ {
+  "id": 150253,
+  "localidade": "Bannach",
+  "classificacao": 4,
+  "casos": 1
+ },
+ {
+  "id": 150303,
+  "localidade": "Barcarena",
+  "classificacao": 1,
+  "casos": 65
+ },
+ {
+  "id": 150402,
+  "localidade": "Belém",
+  "classificacao": 2,
+  "casos": 958
+ },
+ {
+  "id": 150451,
+  "localidade": "Belterra",
+  "classificacao": 4,
+  "casos": 0
+ },
+ {
+  "id": 150501,
+  "localidade": "Benevides",
+  "classificacao": 2,
+  "casos": 18
+ },
+ {
+  "id": 150576,
+  "localidade": "Bom Jesus do Tocantins",
+  "classificacao": 4,
+  "casos": 2
+ },
+ {
+  "id": 150600,
+  "localidade": "Bonito",
+  "classificacao": 4,
+  "casos": 3
+ },
+ {
+  "id": 150709,
+  "localidade": "Bragança",
+  "classificacao": 4,
+  "casos": 29
+ },
+ {
+  "id": 150725,
+  "localidade": "Brasil Novo",
+  "classificacao": 2,
+  "casos": 1
+ },
+ {
+  "id": 150758,
+  "localidade": "Brejo Grande do Araguaia",
+  "classificacao": 4,
+  "casos": 2
+ },
+ {
+  "id": 150782,
+  "localidade": "Breu Branco",
+  "classificacao": 4,
+  "casos": 6
+ },
+ {
+  "id": 150808,
+  "localidade": "Breves",
+  "classificacao": 5,
+  "casos": 12
+ },
+ {
+  "id": 150907,
+  "localidade": "Bujaru",
+  "classificacao": 2,
+  "casos": 11
+ },
+ {
+  "id": 1502004,
+  "localidade": "Cachoeira do Piriá",
+  "classificacao": 5,
+  "casos": 1
+ },
+ {
+  "id": 150956,
+  "localidade": "Cachoeira do Arari",
+  "classificacao": 5,
+  "casos": 3
+ },
+ {
+  "id": 1502103,
+  "localidade": "Cametá",
+  "classificacao": 4,
+  "casos": 16
+ },
+ {
+  "id": 1502152,
+  "localidade": "Canaã dos Carajás",
+  "classificacao": 0,
+  "casos": 14
+ },
+ {
+  "id": 1502202,
+  "localidade": "Capanema",
+  "classificacao": 2,
+  "casos": 25
+ },
+ {
+  "id": 1502301,
+  "localidade": "Capitão Poço",
+  "classificacao": 3,
+  "casos": 5
+ },
+ {
+  "id": 1502400,
+  "localidade": "Castanhal",
+  "classificacao": 2,
+  "casos": 94
+ },
+ {
+  "id": 1502509,
+  "localidade": "Chaves",
+  "classificacao": 5,
+  "casos": 1
+ },
+ {
+  "id": 1502608,
+  "localidade": "Colares",
+  "classificacao": 5,
+  "casos": 3
+ },
+ {
+  "id": 1502707,
+  "localidade": "Conceição do Araguaia",
+  "classificacao": 3,
+  "casos": 4
+ },
+ {
+  "id": 1502756,
+  "localidade": "Concórdia do Pará",
+  "classificacao": 4,
+  "casos": 10
+ },
+ {
+  "id": 1502764,
+  "localidade": "Cumaru do Norte",
+  "classificacao": 2,
+  "casos": 0
+ },
+ {
+  "id": 1502772,
+  "localidade": "Curionópolis",
+  "classificacao": 1,
+  "casos": 5
+ },
+ {
+  "id": 1502806,
+  "localidade": "Curralinho",
+  "classificacao": 5,
+  "casos": 14
+ },
+ {
+  "id": 1502855,
+  "localidade": "Curuá",
+  "classificacao": 4,
+  "casos": 2
+ },
+ {
+  "id": 1502905,
+  "localidade": "Curuçá",
+  "classificacao": 5,
+  "casos": 13
+ },
+ {
+  "id": 1502939,
+  "localidade": "Dom Eliseu",
+  "classificacao": 4,
+  "casos": 4
+ },
+ {
+  "id": 1502954,
+  "localidade": "Eldorado do Carajás",
+  "classificacao": 3,
+  "casos": 5
+ },
+ {
+  "id": 1503002,
+  "localidade": "Faro",
+  "classificacao": 5,
+  "casos": 0
+ },
+ {
+  "id": 1503044,
+  "localidade": "Floresta do Araguaia",
+  "classificacao": 3,
+  "casos": 1
+ },
+ {
+  "id": 1503077,
+  "localidade": "Garrafão do Norte",
+  "classificacao": 4,
+  "casos": 4
+ },
+ {
+  "id": 1503093,
+  "localidade": "Goianésia do Pará",
+  "classificacao": 4,
+  "casos": 3
+ },
+ {
+  "id": 1503101,
+  "localidade": "Gurupá",
+  "classificacao": 5,
+  "casos": 6
+ },
+ {
+  "id": 1503200,
+  "localidade": "Igarapé-Açu",
+  "classificacao": 4,
+  "casos": 10
+ },
+ {
+  "id": 1503309,
+  "localidade": "Igarapé-Miri",
+  "classificacao": 4,
+  "casos": 16
+ },
+ {
+  "id": 1503408,
+  "localidade": "Inhangapi",
+  "classificacao": 4,
+  "casos": 3
+ },
+ {
+  "id": 1503457,
+  "localidade": "Ipixuna do Pará",
+  "classificacao": 4,
+  "casos": 4
+ },
+ {
+  "id": 1503507,
+  "localidade": "Irituia",
+  "classificacao": 5,
+  "casos": 6
+ },
+ {
+  "id": 1503606,
+  "localidade": "Itaituba",
+  "classificacao": 2,
+  "casos": 20
+ },
+ {
+  "id": 1503705,
+  "localidade": "Itupiranga",
+  "classificacao": 4,
+  "casos": 4
+ },
+ {
+  "id": 1503754,
+  "localidade": "Jacareacanga",
+  "classificacao": 1,
+  "casos": 0
+ },
+ {
+  "id": 1503804,
+  "localidade": "Jacundá",
+  "classificacao": 4,
+  "casos": 6
+ },
+ {
+  "id": 1503903,
+  "localidade": "Juruti",
+  "classificacao": 2,
+  "casos": 5
+ },
+ {
+  "id": 1504000,
+  "localidade": "Limoeiro do Ajuru",
+  "classificacao": 4,
+  "casos": 3
+ },
+ {
+  "id": 1504059,
+  "localidade": "Mãe do Rio",
+  "classificacao": 4,
+  "casos": 15
+ },
+ {
+  "id": 1504109,
+  "localidade": "Magalhães Barata",
+  "classificacao": 4,
+  "casos": 0
+ },
+ {
+  "id": 1504208,
+  "localidade": "Marabá",
+  "classificacao": 1,
+  "casos": 106
+ },
+ {
+  "id": 1504307,
+  "localidade": "Maracanã",
+  "classificacao": 5,
+  "casos": 10
+ },
+ {
+  "id": 1504406,
+  "localidade": "Marapanim",
+  "classificacao": 5,
+  "casos": 10
+ },
+ {
+  "id": 1504422,
+  "localidade": "Marituba",
+  "classificacao": 2,
+  "casos": 48
+ },
+ {
+  "id": 1504455,
+  "localidade": "Medicilândia",
+  "classificacao": 2,
+  "casos": 1
+ },
+ {
+  "id": 1504505,
+  "localidade": "Melgaço",
+  "classificacao": 5,
+  "casos": 8
+ },
+ {
+  "id": 1504604,
+  "localidade": "Mocajuba",
+  "classificacao": 3,
+  "casos": 2
+ },
+ {
+  "id": 1504703,
+  "localidade": "Moju",
+  "classificacao": 4,
+  "casos": 16
+ },
+ {
+  "id": 1504752,
+  "localidade": "Mojuí dos Campos",
+  "classificacao": 5,
+  "casos": 0
+ },
+ {
+  "id": 1504802,
+  "localidade": "Monte Alegre",
+  "classificacao": 4,
+  "casos": 8
+ },
+ {
+  "id": 1504901,
+  "localidade": "Muaná",
+  "classificacao": 5,
+  "casos": 4
+ },
+ {
+  "id": 1504950,
+  "localidade": "Nova Esperança do Piriá",
+  "classificacao": 4,
+  "casos": 4
+ },
+ {
+  "id": 1504976,
+  "localidade": "Nova Ipixuna",
+  "classificacao": 4,
+  "casos": 0
+ },
+ {
+  "id": 1505007,
+  "localidade": "Nova Timboteua",
+  "classificacao": 5,
+  "casos": 4
+ },
+ {
+  "id": 1505031,
+  "localidade": "Novo Progresso",
+  "classificacao": 2,
+  "casos": 2
+ },
+ {
+  "id": 1505064,
+  "localidade": "Novo Repartimento",
+  "classificacao": 4,
+  "casos": 3
+ },
+ {
+  "id": 1505106,
+  "localidade": "Óbidos",
+  "classificacao": 2,
+  "casos": 1
+ },
+ {
+  "id": 1505205,
+  "localidade": "Oeiras do Pará",
+  "classificacao": 3,
+  "casos": 4
+ },
+ {
+  "id": 1505304,
+  "localidade": "Oriximiná",
+  "classificacao": 4,
+  "casos": 2
+ },
+ {
+  "id": 1505403,
+  "localidade": "Ourém",
+  "classificacao": 4,
+  "casos": 1
+ },
+ {
+  "id": 1505437,
+  "localidade": "Ourilândia do Norte",
+  "classificacao": 4,
+  "casos": 2
+ },
+ {
+  "id": 1505486,
+  "localidade": "Pacajá",
+  "classificacao": 2,
+  "casos": 2
+ },
+ {
+  "id": 1505494,
+  "localidade": "Palestina do Pará",
+  "classificacao": 4,
+  "casos": 1
+ },
+ {
+  "id": 1505502,
+  "localidade": "Paragominas",
+  "classificacao": 1,
+  "casos": 40
+ },
+ {
+  "id": 1505536,
+  "localidade": "Parauapebas",
+  "classificacao": 1,
+  "casos": 68
+ },
+ {
+  "id": 1505551,
+  "localidade": "Pau D'Arco",
+  "classificacao": 4,
+  "casos": 0
+ },
+ {
+  "id": 1505601,
+  "localidade": "Peixe-Boi",
+  "classificacao": 5,
+  "casos": 3
+ },
+ {
+  "id": 1505635,
+  "localidade": "Piçarra",
+  "classificacao": 2,
+  "casos": 3
+ },
+ {
+  "id": 1505650,
+  "localidade": "Placas",
+  "classificacao": 4,
+  "casos": 0
+ },
+ {
+  "id": 1505700,
+  "localidade": "Ponta de Pedras",
+  "classificacao": 5,
+  "casos": 9
+ },
+ {
+  "id": 1505809,
+  "localidade": "Portel",
+  "classificacao": 3,
+  "casos": 13
+ },
+ {
+  "id": 1505908,
+  "localidade": "Porto de Moz",
+  "classificacao": 5,
+  "casos": 3
+ },
+ {
+  "id": 1506005,
+  "localidade": "Prainha",
+  "classificacao": 4,
+  "casos": 1
+ },
+ {
+  "id": 1506104,
+  "localidade": "Primavera",
+  "classificacao": 2,
+  "casos": 0
+ },
+ {
+  "id": 1506112,
+  "localidade": "Quatipuru",
+  "classificacao": 5,
+  "casos": 4
+ },
+ {
+  "id": 1506138,
+  "localidade": "Redenção",
+  "classificacao": 2,
+  "casos": 25
+ },
+ {
+  "id": 1506161,
+  "localidade": "Rio Maria",
+  "classificacao": 2,
+  "casos": 14
+ },
+ {
+  "id": 1506187,
+  "localidade": "Rondon do Pará",
+  "classificacao": 4,
+  "casos": 11
+ },
+ {
+  "id": 1506195,
+  "localidade": "Rurópolis",
+  "classificacao": 5,
+  "casos": 1
+ },
+ {
+  "id": 1506203,
+  "localidade": "Salinópolis",
+  "classificacao": 3,
+  "casos": 20
+ },
+ {
+  "id": 1506302,
+  "localidade": "Salvaterra",
+  "classificacao": 5,
+  "casos": 0
+ },
+ {
+  "id": 1506351,
+  "localidade": "Santa Bárbara do Pará",
+  "classificacao": 4,
+  "casos": 7
+ },
+ {
+  "id": 1506401,
+  "localidade": "Santa Cruz do Arari",
+  "classificacao": 5,
+  "casos": 2
+ },
+ {
+  "id": 1506500,
+  "localidade": "Santa Izabel do Pará",
+  "classificacao": 4,
+  "casos": 14
+ },
+ {
+  "id": 1506559,
+  "localidade": "Santa Luzia do Pará",
+  "classificacao": 5,
+  "casos": 1
+ },
+ {
+  "id": 1506583,
+  "localidade": "Santa Maria das Barreiras",
+  "classificacao": 2,
+  "casos": 0
+ },
+ {
+  "id": 1506609,
+  "localidade": "Santa Maria do Pará",
+  "classificacao": 3,
+  "casos": 8
+ },
+ {
+  "id": 1506708,
+  "localidade": "Santana do Araguaia",
+  "classificacao": 2,
+  "casos": 3
+ },
+ {
+  "id": 1506807,
+  "localidade": "Santarém",
+  "classificacao": 2,
+  "casos": 144
+ },
+ {
+  "id": 1506906,
+  "localidade": "Santarém Novo",
+  "classificacao": 5,
+  "casos": 0
+ },
+ {
+  "id": 1507003,
+  "localidade": "Santo Antônio do Tauá",
+  "classificacao": 4,
+  "casos": 7
+ },
+ {
+  "id": 1507102,
+  "localidade": "São Caetano de Odivelas",
+  "classificacao": 5,
+  "casos": 5
+ },
+ {
+  "id": 1507151,
+  "localidade": "São Domingos do Araguaia",
+  "classificacao": 4,
+  "casos": 3
+ },
+ {
+  "id": 1507201,
+  "localidade": "São Domingos do Capim",
+  "classificacao": 4,
+  "casos": 4
+ },
+ {
+  "id": 1507300,
+  "localidade": "São Félix do Xingu",
+  "classificacao": 3,
+  "casos": 9
+ },
+ {
+  "id": 1507409,
+  "localidade": "São Francisco do Pará",
+  "classificacao": 4,
+  "casos": 2
+ },
+ {
+  "id": 1507458,
+  "localidade": "São Geraldo do Araguaia",
+  "classificacao": 4,
+  "casos": 1
+ },
+ {
+  "id": 1507466,
+  "localidade": "São João da Ponta",
+  "classificacao": 5,
+  "casos": 0
+ },
+ {
+  "id": 1507474,
+  "localidade": "São João de Pirabas",
+  "classificacao": 5,
+  "casos": 7
+ },
+ {
+  "id": 1507508,
+  "localidade": "São João do Araguaia",
+  "classificacao": 4,
+  "casos": 3
+ },
+ {
+  "id": 1507607,
+  "localidade": "São Miguel do Guamá",
+  "classificacao": 4,
+  "casos": 17
+ },
+ {
+  "id": 1507706,
+  "localidade": "São Sebastião da Boa Vista",
+  "classificacao": 5,
+  "casos": 3
+ },
+ {
+  "id": 1507755,
+  "localidade": "Sapucaia",
+  "classificacao": 2,
+  "casos": 0
+ },
+ {
+  "id": 1507805,
+  "localidade": "Senador José Porfírio",
+  "classificacao": 2,
+  "casos": 2
+ },
+ {
+  "id": 1507904,
+  "localidade": "Soure",
+  "classificacao": 5,
+  "casos": 2
+ },
+ {
+  "id": 1507953,
+  "localidade": "Tailândia",
+  "classificacao": 4,
+  "casos": 11
+ },
+ {
+  "id": 1507961,
+  "localidade": "Terra Alta",
+  "classificacao": 5,
+  "casos": 3
+ },
+ {
+  "id": 1507979,
+  "localidade": "Terra Santa",
+  "classificacao": 4,
+  "casos": 4
+ },
+ {
+  "id": 1508001,
+  "localidade": "Tomé-Açu",
+  "classificacao": 3,
+  "casos": 10
+ },
+ {
+  "id": 1508035,
+  "localidade": "Tracuateua",
+  "classificacao": 5,
+  "casos": 1
+ },
+ {
+  "id": 1508050,
+  "localidade": "Trairão",
+  "classificacao": 2,
+  "casos": 1
+ },
+ {
+  "id": 1508084,
+  "localidade": "Tucumã",
+  "classificacao": 2,
+  "casos": 12
+ },
+ {
+  "id": 1508100,
+  "localidade": "Tucuruí",
+  "classificacao": 1,
+  "casos": 52
+ },
+ {
+  "id": 1508126,
+  "localidade": "Ulianópolis",
+  "classificacao": 4,
+  "casos": 3
+ },
+ {
+  "id": 1508159,
+  "localidade": "Uruará",
+  "classificacao": 3,
+  "casos": 2
+ },
+ {
+  "id": 1508209,
+  "localidade": "Vigia",
+  "classificacao": 5,
+  "casos": 10
+ },
+ {
+  "id": 1508308,
+  "localidade": "Viseu",
+  "classificacao": 5,
+  "casos": 4
+ },
+ {
+  "id": 1508357,
+  "localidade": "Vitória do Xingu",
+  "classificacao": 0,
+  "casos": 6
+ },
+ {
+  "id": 1508407,
+  "localidade": "Xinguara",
+  "classificacao": 1,
+  "casos": 13
+ }
+]
