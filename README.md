@@ -441,17 +441,17 @@ We thank you all for your valuable contributions to this project:
     </td>
     <td align="center">
       <a href="#">
-        <img src="collaborators/alana.jpg" width="100px;" alt="Alana"><br>
+        <img src="collaborators/saulo.jpg" width="100px;alt="Sulo"><br>
         <sub>
-          <b>Alana Miranda</b>
+          <b>Saulo William</b>
         </sub>
       </a>
     </td>
     <td align="center">
       <a href="#">
-        <img src="collaborators/saulo.jpg" width="100px;alt="Sulo"><br>
+        <img src="collaborators/alana.jpg" width="100px;" alt="Alana"><br>
         <sub>
-          <b>Saulo William</b>
+          <b>Alana Miranda</b>
         </sub>
       </a>
     </td>
