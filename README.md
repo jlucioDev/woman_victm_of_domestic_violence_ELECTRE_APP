@@ -457,20 +457,21 @@ We thank you all for your valuable contributions to this project:
     </td>
     <td align="center">
       <a href="#">
-        <img src="collaborators/seruffo.jpg" width="100px;alt="Seruffo"><br>
-        <sub>
-          <b>Marcos Seruffo</b>
-        </sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="#">
         <img src="collaborators/fernando.jpg" width="100px;alt="Seruffo"><br>
         <sub>
           <b>Fernando Costa</b>
         </sub>
       </a>
     </td>
+    <td align="center">
+      <a href="#">
+        <img src="collaborators/seruffo.jpg" width="100px;alt="Seruffo"><br>
+        <sub>
+          <b>Marcos Seruffo</b>
+        </sub>
+      </a>
+    </td>
+    
   </tr>
 </table>
 
