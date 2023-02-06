@@ -56,7 +56,7 @@ pip install geopandas
 
 # INTRODUCTION
 <p align="center">
-    <img src="Fig1.png" alt="" width="600" heigth="300">
+    <img src="images/Fig1.png" alt="" width="600" heigth="300">
     </p>
 <p align="center">
     <em>"Fig 1. Total number of homicides of women in 2019 in Brazil and in the state of Pará."</em>
