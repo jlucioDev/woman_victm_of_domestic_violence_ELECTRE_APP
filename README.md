@@ -14,18 +14,6 @@
 <p>
 </p>
 
-# INTRODUCTION
-<p align="center">
-    <img src="Fig1.png" alt="" width="600" heigth="300">
-    </p>
-<p align="center">
-    <em>"Fig 1. Total number of homicides of women in 2019 in Brazil and in the state of Pará."</em>
-</p>    
-In 2023 it will be three decades since the United Nations signed the Vienna Declaration at a conference in which the horizons of understanding and the scope of what was considered human rights were significantly expanded. Thus, violence against women (VAW), privately or in public spaces and in any respect, came to be regarded by the international community as incompatible with human dignity, and women’s human rights were declared to be inalienable, integral, and indivisible from the set of universal human rights [1]. Despite this, the recent COVID-19 pandemic showed that there is still 8 much to be done in preventing, combating and punishing cases of violence against women, as well as in assisting and protecting victims, since the increase in cases was 10 seen as a deleterious consequence of domestic confinement [2], [3]. Violence against women (VAW) can be defined as any act of gender-based violence that results in or is likely to result in physical, sexual or mental harm or suffering to women [4], [3]. This type of violence causes physical, material and mental harm to the victims, forcing the application of specific laws to repress it, such as, for example, in Brazil, the Federal Law No. 11.340/2006 [5], known as Maria da Penha Law, which created mechanisms to curb domestic and family violence against women, ensuring the creation of specific courts and punishments for aggressors in order to eradicate and prevent this type of rights violation whose end point, sometimes, is the victim’s death. Thus, the Atlas of Violence, organized by the Institute for Applied Economic Research (IPEA, in Portuguese) [6], 2019, points out that in Brazil there has been a growth in cases of homicides of women in recent years, reaching a peak of 4,936 cases in 2017, reducing in subsequent years until reaching 3,737 cases. Reducing the scale of the scope of the data, in the state of Pará, this reduction occurred only in 2019 (Fig 1). 
-According to the Brazilian Institute of Geography and Statistics (IBGE, in Portuguese) (2021), the state of Pará has 144 municipalities, divided into immediate geographic regions, which are grouped into seven intermediate geographic regions.
-According to the Atlas of Violence, the state occupies the fourth position in homicides of women [6].</div>
-
-
 ## 💻 Prerequisites
 
 Before you begin, check that you have met the following requirements:
