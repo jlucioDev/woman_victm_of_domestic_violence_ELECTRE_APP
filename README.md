@@ -311,7 +311,7 @@ gfg.set(xlabel ="Support and Protection Index (IAP)", ylabel = "Denunciations")
 ```
 
 <p align="center">
-    <img src="images/Fig5.png" alt="" width="600" heigth="300">
+    <img src="images/Fig5.tiff" alt="" width="600" heigth="300">
     </p>
 <p align="center">
     <em>"Fig 5. Public facilities versus denunciations in municipalities"</em>
