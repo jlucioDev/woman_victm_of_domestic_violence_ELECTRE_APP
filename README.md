@@ -8,7 +8,7 @@
 ![Bitbucket open issues](https://img.shields.io/bitbucket/issues/iuricode/README-template?style=for-the-badge)
 ![Bitbucket open pull requests](https://img.shields.io/bitbucket/pr-raw/iuricode/README-template?style=for-the-badge)
 
-<img src="banner1.png" alt="">
+<img src="images/banner1.png" alt="">
 
 <div style="text-align: justify">   Domestic violence against women (DVAW) is a serious violation of the rights to life, health, and physical integrity. Its occurrence generates costs, internal and external, to both the individual offender and the victim. In view of these facts, the state has its responsibility increased when the costs are directly linked to the lack of management strategies that collaborate with the confrontation of violence. This project aims to develop a multi-criteria decision analysis model (MCDA) to classify municipalities in Pará with regard to the propensity of the crime of DVAW, based on the mapping of assistance and protection equipments, as well as socioeconomic indicators of each municipality. The results present an excellent performance after sensitivity testing, ensuring the effectiveness of the model and thus establishing itself as a support tool in the development of different policies for each region, such as investments in infrastructure of protection networks, judicial equipping and definition of economic and social strategies.
 <p>
