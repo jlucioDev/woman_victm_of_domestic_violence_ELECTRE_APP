@@ -412,9 +412,9 @@ et al. An ́alise da tendência da mortalidade feminina por agress ̃ao no Brasi
 estados e regi ̃oes. Ciˆencia & Sa ́ude Coletiva. 2017;22:2971–2978.
 
 
-## 🤝 Colaboradores
+## 🤝 Colaborators
 
-Agradecemos à todos que contribuíram para este projeto:
+We thank you all for your valuable contributions to this project:
 
 <table>
   <tr>
@@ -422,7 +422,7 @@ Agradecemos à todos que contribuíram para este projeto:
       <a href="#">
         <img src="collaborators/joao.jpg" width="100px;" alt="joao"><br>
         <sub>
-          <b>João Lúcio</b>
+          <b>João L. De Souza</b>
         </sub>
       </a>
     </td>
@@ -444,15 +444,23 @@ Agradecemos à todos que contribuíram para este projeto:
     </td>
     <td align="center">
       <a href="#">
-        <img src="collaborators/Seruffo.jpg" width="100px;alt="Seruffo"><br>
+        <img src="collaborators/seruffo.jpg" width="100px;alt="Seruffo"><br>
         <sub>
           <b>Marcos Seruffo</b>
+        </sub>
+      </a>
+    </td>
+    <td align="center">
+      <a href="#">
+        <img src="collaborators/fernando.jpg" width="100px;alt="Seruffo"><br>
+        <sub>
+          <b>Fernando Costa</b>
         </sub>
       </a>
     </td>
   </tr>
 </table>
 
-## 📝 Licença
+## 📝 License
 
-Esse projeto está sob licença. Veja o arquivo [LICENÇA](LICENSE.md) para mais detalhes.
+This project is under license. See the file [LICENSE](LICENSE.md) for more details.
