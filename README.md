@@ -310,6 +310,13 @@ gfg.set_ylim(0, 100)
 gfg.set(xlabel ="Support and Protection Index (IAP)", ylabel = "Denunciations")
 ```
 
+<p align="center">
+    <img src="images/Fig5.png" alt="" width="600" heigth="300">
+    </p>
+<p align="center">
+    <em>"Fig 5. Public facilities versus denunciations in municipalities"</em>
+</p>    
+    
 ### GeoPandas library for mapping Para's municipalities
 
 #### Reading the file with the state geometry
@@ -331,7 +338,7 @@ df_teste = df_teste[['id', 'localidade', 'geometry']]
 df_teste['classe'] = classification
 ```
 
-### Plotagem do gráfico
+### Graphic Plotting
 
 ```python
 clusdict={5: '1 - Extremely High', 4: '2 - Very High', 3: '3 - High', 2: '4 - Medium', 1: '5 - Low', 0: '6 - Very Low' }
@@ -352,7 +359,13 @@ replace_legend_items(ax.get_legend(), clusdict)
 
 ax.set_axis_off()
 ```
-
+<p align="center">
+    <img src="images/Fig4.png" alt="" width="600" heigth="300">
+    </p>
+<p align="center">
+    <em>"Fig 4. Final ranking of the municipalities."</em>
+</p>    
+    
 # Conclusion
 <div style="text-align: justify"> This article presents a multicriteria model developed to classify the municipalities of the State of Par ́a on the propensity of the existence of a favorable or not context for domestic violence against women; the dimensions used for this classification were the political, social, economic, and demographic scenarios. The ELECTRE TRI-B was used as a means to reach the objective. The model developed and the research findings represent an important step for the elaboration, execution, and control of public policies better coordinated with the reality of each municipality in Par ́a; based on these data, institutions of public power andsociety can intervene in a proactive and preventive way regarding DVAW.The long-term goal is to create a favorable and safe context so that: i) the localsociety rejects violence against women, increasing the cost of its practice and reducingits usefulness to the aggressor; ii) there are means for women, especially thosevictimized by violence, to have ways of generating their own income, thus having thepossibility of abandoning an abusive relationship; and iii) the woman victim, with allthese positive reinforcements, will report the aggression suffered or in progress.The non-uniformity of the origins of the data that formed the basis of this analysisor that were used as criteria for such can be seen as a hindrance to this work; however,focused on the objectives, the authors were able to connect the information and datawhen carrying out their systematization, which subsidized the analysis. In this sense, itis concluded that the model proposed here is applicable, replicable and highly efficient </div>
 
