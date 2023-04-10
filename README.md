@@ -477,4 +477,6 @@ We thank you all for your valuable contributions to this project:
 
 ## 📝 License
 
-This project is under license. See the file [LICENSE](LICENSE.md) for more details.
+<a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/88x31.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" property="dct:title">A classification model for municipalities in the paraense Amazon regarding the risk of domestic violence against women: A multicriteria approach.</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jlucioDev/woman_victm_of_domestic_violence_ELECTRE_APP" property="cc:attributionName" rel="cc:attributionURL">João Lúcio de Souza Júnior</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição 4.0 Internacional</a>.<br />Baseado no trabalho disponível em <a xmlns:dct="http://purl.org/dc/terms/" href="https://www.overleaf.com/read/jhxdnsxbsyfc" rel="dct:source">https://www.overleaf.com/read/jhxdnsxbsyfc</a>.
+
+
