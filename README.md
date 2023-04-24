@@ -364,7 +364,7 @@ replace_legend_items(ax.get_legend(), clusdict)
 ax.set_axis_off()
 ```
 <p align="center">
-    <img src="images/Fig4.png" alt="" width="600" heigth="300">
+    <img src="images/Fig4_2.png" alt="" width="600" heigth="300">
     </p>
 <p align="center">
     <em>"Fig 4. Final ranking of the municipalities."</em>
