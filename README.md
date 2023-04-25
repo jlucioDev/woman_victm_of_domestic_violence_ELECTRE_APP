@@ -59,7 +59,7 @@ pip install geopandas
     <img src="images/Fig1.png" alt="" width="600" heigth="300">
     </p>
 <p align="center">
-    <em>"Fig 1. Total number of homicides of women in 2019 in Brazil and in the state of Pará."</em>
+    <em>"Fig 1. Evolution of the Homicide Rate per 100,000 Female Inhabitants in the State of Pará and Brazil. This figure was prepared based on data from table 5.1 of the 2021 atlas of violence (2021). The map image, which is contained in the figure, was derived from global vector data 'Geo Meshes API' (https://servicodados.ibge.gov.br/api/docs/malhas?versao=3"</em>
 </p>
 
 > <a rel="license" href="http://creativecommons.org/licenses/by/4.0/"><img alt="Licença Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by/4.0/80x15.png" /></a><br /><span xmlns:dct="http://purl.org/dc/terms/" href="http://purl.org/dc/dcmitype/StillImage" property="dct:title" rel="dct:type">Total number of homicides of women in 2019 in Brazil and in the state of Pará.</span> de <a xmlns:cc="http://creativecommons.org/ns#" href="https://github.com/jlucioDev/woman_victm_of_domestic_violence_ELECTRE_APP" property="cc:attributionName" rel="cc:attributionURL">João Lúcio de Souza Júnior</a> está licenciado com uma Licença <a rel="license" href="http://creativecommons.org/licenses/by/4.0/">Creative Commons - Atribuição 4.0 Internacional</a>.<br />Baseado no trabalho disponível em <a xmlns:dct="http://purl.org/dc/terms/" href="https://www.overleaf.com/read/jhxdnsxbsyfc" rel="dct:source">https://www.overleaf.com/read/jhxdnsxbsyfc</a>
@@ -227,7 +227,9 @@ df_munic['GINI'] = pd.to_numeric(df_munic['GINI'])
 Normalization consists in recalculating the values of the columns for intervals between 0 and 1. This procedure is necessary so that different scales do not affect the accuracy of the model. In this case, only the columns that have values with scales outside the range 0 and 1 will be recalculated.
 The calculation is done by dividing the value of the alternative by the sum of the column values:
 
-![image.png](attachment:image.png)
+<p align="center">
+    <img src="images\normalization_equation.PNG" alt="" width="200" heigth="300">
+</p>
 
 
 ```python
@@ -315,7 +317,7 @@ gfg.set(xlabel ="Support and Protection Index (IAP)", ylabel = "Denunciations")
 ```
 
 <p align="center">
-    <img src="images/Fig5.png" alt="" width="600" heigth="300">
+    <img src="images/Fig5_2.png" alt="" width="600" heigth="300">
     </p>
 <p align="center">
     <em>"Fig 5. Public facilities versus denunciations in municipalities"</em>
